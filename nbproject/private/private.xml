@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="OpMetParser">
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/editor/MultiSyntaxDocument.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/editor/JEditorTextPane.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Clouds4D.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Grib3DEditor.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Grib3DMinMax.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/CLEditor.java</file>
+        </group>
+        <group name="SynergieWebClient">
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/opencl/Terrain3D.cl</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Clouds4D.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Terrain3D.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Grib3DMinMax.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/opencl/Grib3DMinMax.cl</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/CloudsEditor.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/Clouds4DCurve.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/CLEditor.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/physic/SunAtTime.java</file>
+            <file>file:/F:/JavaCLSimple/src/javaclsimple/physic/AstreAtTime.java</file>
+        </group>
+        <group name="Synopsis"/>
+        <group name="Visme">
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/opencl/Grib3DMinMax.cl</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/loader/DataLoader.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Grib3DMinMax.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/TerrainEditorArray.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Clouds4DCurve.java</file>
+        </group>
+        <group name="Seb 4D">
+            <file>file:/D:/JavaCLSimple/src/javaclsimple/CLEditor.java</file>
+        </group>
+        <group name="Saapi">
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Grib3DMinMax.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/VoxelEditorArray.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Bathy3DTexture.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Clouds4DCurve.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Grib4DCurve2.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Terrain3DCurve.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Clouds4D.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/editor/JCompilableCodeEditor.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Grib3DMinMaxGround.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/opencl/Grib3DMinMax.cl</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/opencl/Bathy3DTexture.cl</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/VoxelEditor.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/CLEditor.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Grib4DCurve.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/opencl/Bathy3D.cl</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Bathy3D.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/DicomViewer.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/Terrain3D.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/TerrainEditorArray.java</file>
+            <file>file:/E:/JavaCLSimple/src/javaclsimple/TerrainEditor.java</file>
+        </group>
+        <group name="trunk_septembre">
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Clouds4DBad.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Grib4DCurve2.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Grib3DMinMax.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Terrain3D.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Grib4DCurve.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/VoxelArray.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Clouds4DOK.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Clouds4DCurve.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/loader/DataLoader.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Voxel.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Bathy3D.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/CLEditor.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Clouds.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/Grib3DMinMax.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Terrain3DCurve.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Clouds4D.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/loader/grib/GribReader.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/PanelController.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/DicomViewer2.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Bathy3DTexture.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/Grib3DMinMaxGround2.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/Grib3DMinMaxGround.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/DicomViewer.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/opencl/DemArray.cl</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/Grib3DVoxel.java</file>
+            <file>file:/home/sebastien/NetBeansProjects/JavaCLSimple/src/javaclsimple/loader/grib/Grib3D.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
