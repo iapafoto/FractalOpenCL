@@ -9,7 +9,7 @@ Navigate and raytrace 3D fractals using OpenCL
 
 # Images
 
-![Alt text](https://github.com/iapafoto/FractalOpenCL/tree/master/Save/fractal_1490052595526.jpg)
+![Img](https://github.com/iapafoto/FractalOpenCL/tree/master/Save/fractal_1490052595526.jpg)
 ![Alt text](https://github.com/iapafoto/FractalOpenCL/tree/master/Save/fractal_1491464537583.jpg)
 ![Alt text](https://github.com/iapafoto/FractalOpenCL/tree/master/Save/fractal_1491475252513.jpg)
 ![Alt text](https://github.com/iapafoto/FractalOpenCL/tree/master/Save/fractal_1494510529468.jpg)
